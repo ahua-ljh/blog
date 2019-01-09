@@ -1,3 +1,4 @@
-# 欢迎来到小弟的初识博客～
+# welcome friends
 
  - [迭代方法替代for循环](https://github.com/ahua-ljh/blog/issues/1)
+ - [animation的总结复习](https://github.com/ahua-ljh/blog/issues/2)
